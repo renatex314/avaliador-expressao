@@ -20,7 +20,7 @@ Este projeto utiliza inteligência artificial para reconhecer e avaliar express�
 
 - **[Hugging Face Transformers](https://huggingface.co/transformers/)**: Para o modelo TrOCR.
 - **[Gradio](https://gradio.app/)**: Para criar a interface gráfica.
-- **[Pillow](https://python-pillow.org/)**: Para manipulação de imagens.
+- **[Pillow](https://python-pillow.github.io/)**: Para manipulação de imagens.
 - **Python**: Linguagem principal do projeto.
 
 ## Como executar o projeto?

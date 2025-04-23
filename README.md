@@ -30,7 +30,7 @@ Este projeto utiliza inteligência artificial para reconhecer e avaliar express�
 Certifique-se de ter o Python 3.8 ou superior instalado. Além disso, instale as dependências necessárias:
 
 ```bash
-pip install transformers gradio pillow
+pip install torch transformers gradio pillow
 ```
 
 ### Executando o projeto

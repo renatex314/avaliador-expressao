@@ -18,7 +18,7 @@ Este projeto utiliza inteligência artificial para reconhecer e avaliar express�
 
 ## Tecnologias Utilizadas
 
-- **[Hugging Face Transformers](https://huggingface.co/transformers/)**: Para o modelo TrOCR.
+- **[Hugging Face Transformers](https://huggingface.co/transformers/)**: Para utilizar o modelo TrOCR.
 - **[Gradio](https://gradio.app/)**: Para criar a interface gráfica.
 - **[Pillow](https://python-pillow.github.io/)**: Para manipulação de imagens.
 - **Python**: Linguagem principal do projeto.
@@ -72,6 +72,10 @@ projeto_gradio/
 ├── README.md        # Documentação do projeto
 └── requirements.txt # Dependências do projeto (opcional)
 ```
+
+## Autores
+- Renato Corte | [Github](https://www.github.com/renatex314)
+- Julia Noronha | [Github](https://github.com/JulinhaNoronha)
 
 ## Licença
 
